@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title="About Me"}
   - {file: "README.md"}
   - {file: "research.md", title="Research"}
+  - {url: "https:/www.vumc.org", title="VUMC"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
