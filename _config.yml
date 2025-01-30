@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
   - {file: "research.md", title="Research"}
   - {url: "https:/www.vumc.org", title="VUMC"}
+  - {file: "cv-promotions-tenure.pdf", title="CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
