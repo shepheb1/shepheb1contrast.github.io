@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
   - {file: "README.md"}
   - {file: "research.md", title: Research}
-  - {url: "https:/www.vumc.org", title: VUMC}
-  - {file: "/cv-promotions-tenure.pdf", title: CV}
+  - {url: "https://www.vumc.org", title: VUMC}
+  - {file: "assets/cv-promotions-tenure.pdf", title: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:bryan.shepherd@vanderbilt.edu"}
