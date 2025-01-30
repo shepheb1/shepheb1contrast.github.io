@@ -16,16 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title="About Me"}
+  - {file: "index.md", title= Home}
   - {file: "README.md"}
-  - {file: "research.md", title="Research"}
-  - {url: "https:/www.vumc.org", title="VUMC"}
-  - {file: "cv-promotions-tenure.pdf", title="CV"}
+  - {file: "research.md", title = Research}
+  - {url: "https:/www.vumc.org", title = VUMC}
+  - {file: "cv-promotions-tenure.pdf", title = CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:bryan.shepherd@vanderbilt.edu"}
   - {title: Github, icon: github, url: "https://github.com/shepheb1"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Subscribe, icon: rss, url: "https://scholar.google.com/citations?user=HHv5SUUAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
