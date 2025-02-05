@@ -5,7 +5,7 @@ layout: page
 ---
 
 <img src="assets/ASA-fellow-photo-closeup.jpg" width = "150px" style = "float:right; padding-left:20px">
-Welcome to Bryan Shepherd's personal website. I am a Professor of Biostatistics at Vanderbilt University. I do biomedical research, teach graduate students, and develop new statistical methods. Most of my collaborative work involves HIV/AIDS and other areas of global health research.
+I am a Professor of Biostatistics at Vanderbilt University. I do biomedical research, teach graduate students, and develop new statistical methods. Most of my collaborative work involves HIV/AIDS and other areas of global health research.
 
 
 ## Education
